@@ -14,15 +14,15 @@ Programación en **C**: desde los fundamentos de la informática hasta manejo de
 
 | Guía | Tema | Contenido |
 |------|------|-----------|
-| [Guía 01](GuiasProgra1/Guia_01.md) | Introducción a la Informática | Historia de la computación, generaciones, arquitectura básica |
-| [Guía 02](GuiasProgra1/Guia_02.md) | Tipos de datos y E/S | Tipos de datos en C, `scanf`/`printf`, casting, operadores bit a bit |
-| [Guía 03](GuiasProgra1/Guia_03.md) | Funciones y ámbito | Ámbito de variables, `static`, paso por valor y referencia |
-| [Guía 04](GuiasProgra1/Guia_04.md) | Estructuras de control | `if`/`else`, `switch`, bucles, teorema de Böhm-Jacopini |
-| [Guía 05](GuiasProgra1/Guia_05.md) | Arreglos y matrices | Arrays, operaciones sobre vectores y matrices, imágenes |
-| [Guía 06](GuiasProgra1/Guia_06.md) | Punteros y memoria dinámica | Punteros, strings, `malloc`/`calloc`/`realloc`/`free` |
-| [Guía 07](GuiasProgra1/Guia_07.md) | Archivos | Archivos de texto y binarios, `fopen`/`fclose`/`fread`/`fwrite` |
-| [Guía 07b](GuiasProgra1/Guia_07b_StructsUnions.md) | Structs, Unions y Typedef | `struct`, `union`, `typedef`, punteros a estructuras |
-| [Guía 08](GuiasProgra1/Guia_08_Integracion.md) | Integración | Exámenes completos 2022–2024 |
+| [Guía 01](Guia_01.md) | Introducción a la Informática | Historia de la computación, generaciones, arquitectura básica |
+| [Guía 02](Guia_02.md) | Tipos de datos y E/S | Tipos de datos en C, `scanf`/`printf`, casting, operadores bit a bit |
+| [Guía 03](Guia_03.md) | Funciones y ámbito | Ámbito de variables, `static`, paso por valor y referencia |
+| [Guía 04](Guia_04.md) | Estructuras de control | `if`/`else`, `switch`, bucles, teorema de Böhm-Jacopini |
+| [Guía 05](Guia_05.md) | Arreglos y matrices | Arrays, operaciones sobre vectores y matrices, imágenes |
+| [Guía 06](Guia_06.md) | Punteros y memoria dinámica | Punteros, strings, `malloc`/`calloc`/`realloc`/`free` |
+| [Guía 07](Guia_07.md) | Archivos | Archivos de texto y binarios, `fopen`/`fclose`/`fread`/`fwrite` |
+| [Guía 07b](Guia_07b_StructsUnions.md) | Structs, Unions y Typedef | `struct`, `union`, `typedef`, punteros a estructuras |
+| [Guía 08](Guia_08_Integracion.md) | Integración | Exámenes completos 2022–2024 |
 
 ---
 
