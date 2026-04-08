@@ -17,6 +17,7 @@ Programación en **C**: desde los fundamentos de la informática hasta manejo de
 | [Guía 01](Guia_01.md) | Introducción a la Informática | Historia de la computación, generaciones, arquitectura básica |
 | [Guía 02](Guia_02.md) | Tipos de datos y E/S | Tipos de datos en C, `scanf`/`printf`, casting, operadores bit a bit |
 | [Guía 03](Guia_03.md) | Funciones y ámbito | Ámbito de variables, `static`, paso por valor y referencia |
+| [Guía 03r](Guia_03.md) | Recursividad |  |
 | [Guía 04](Guia_04.md) | Estructuras de control | `if`/`else`, `switch`, bucles, teorema de Böhm-Jacopini |
 | [Guía 05](Guia_05.md) | Arreglos y matrices | Arrays, operaciones sobre vectores y matrices, imágenes |
 | [Guía 06](Guia_06.md) | Punteros y memoria dinámica | Punteros, strings, `malloc`/`calloc`/`realloc`/`free` |
