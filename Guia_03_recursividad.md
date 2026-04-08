@@ -4,8 +4,7 @@
 ## Ejercicios de la Práctica
 
 Unidad Nº 3: Recursiviadad
-
-### Preguntas orientadoras
+## Preguntas orientadoras
 
 1. Explique con sus palabras qué es la recursividad.
 2. ¿Cuál es la diferencia entre una solución iterativa y una recursiva?
@@ -24,7 +23,7 @@ Unidad Nº 3: Recursiviadad
 
 ---
 
-### Ejercicios
+## Ejercicios
 
 1. Escribir una función recursiva que calcule el factorial de un número entero positivo.
 
