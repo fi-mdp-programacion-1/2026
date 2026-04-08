@@ -46,20 +46,20 @@ Unidad Nº 3: Recursiviadad
 9. Determinar si un número es capicúa utilizando recursividad.
     
 10. Implementar una función recursiva para calcular el máximo común divisor (MCD) usando el algoritmo de Euclides.
-   - (a, b) → (b, a % b)
+      - (a, b) → (b, a % b)
 
-Calcular: **MCD(48, 18)**
+      Calcular: **MCD(48, 18)**
 
-```
+      ```
 
-48 % 18 = 12 → MCD(18, 12)
-18 % 12 = 6  → MCD(12, 6)
-12 % 6  = 0  → MCD(6, 0)
+      48 % 18 = 12 → MCD(18, 12)
+      18 % 12 = 6  → MCD(12, 6)
+      12 % 6  = 0  → MCD(6, 0)
 
-```
+      ```
 
-📌 **Resultado:** MCD = **6**
-```
+      📌 **Resultado:** MCD = **6**
+
 
 
 ### Ejercicio Opcional (Reto)
