@@ -27,7 +27,7 @@ Unidad Nº 3: Recursiviadad
 1. Escribir una función recursiva que calcule el factorial de un número entero positivo.
 
 2. Implementar una función que calcule la potencia de un número:
-   - base^exponente
+   - base ^ exponente
 
 3. Realizar una función recursiva que imprima los números naturales desde n hasta 1.
 
@@ -35,3 +35,18 @@ Unidad Nº 3: Recursiviadad
 
 5. Escribir una función que calcule la suma de los primeros n números naturales:
    - 1 + 2 + ... + n
+
+6. Realizar una función recursiva que cuente la cantidad de dígitos de un número entero.
+
+7. Escribir una función que invierta un número entero (por ejemplo: 1234 → 4321).
+
+8. Desarrollar una función que calcule la suma de los dígitos de un número.
+
+9. Determinar si un número es capicúa utilizando recursividad.
+
+### Ejercicios Opciones (Retos)
+
+1. Resolver el problema de la Torre de Hanoi, de forma recursiva e iterativa:
+   - Mostrar los movimientos necesarios para mover n discos.   
+
+2. Implementar una función recursiva para calcular el máximo común divisor (MCD) usando el algoritmo de Euclides.
