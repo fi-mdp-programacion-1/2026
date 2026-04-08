@@ -22,6 +22,8 @@ Unidad Nº 3: Recursiviadad
         - Cada llamada recursiva genera un nuevo __________ en la pila de ejecución.
         - La recursividad puede reemplazarse por una estructura __________ en muchos casos.
 
+---
+
 ### Ejercicios
 
 1. Escribir una función recursiva que calcule el factorial de un número entero positivo.
