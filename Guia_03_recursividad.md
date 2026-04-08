@@ -17,10 +17,10 @@ Unidad Nº 3: Recursiviadad
 8. ¿Qué diferencia existe entre recursividad directa e indirecta?
 9. ¿Qué significa que una función sea “cola recursiva” (tail recursion)?
 10. Complete:
-   - Una función que se llama a sí misma se denomina función __________.
-   - El caso que detiene las llamadas recursivas se denomina __________.
-   - Cada llamada recursiva genera un nuevo __________ en la pila de ejecución.
-   - La recursividad puede reemplazarse por una estructura __________ en muchos casos.
+         - Una función que se llama a sí misma se denomina función __________.
+         - El caso que detiene las llamadas recursivas se denomina __________.
+         - Cada llamada recursiva genera un nuevo __________ en la pila de ejecución.
+         - La recursividad puede reemplazarse por una estructura __________ en muchos casos.
 
 ### Ejercicios
 
