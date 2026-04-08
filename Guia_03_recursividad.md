@@ -44,10 +44,25 @@ Unidad Nº 3: Recursiviadad
 8. Desarrollar una función que calcule la suma de los dígitos de un número.
 
 9. Determinar si un número es capicúa utilizando recursividad.
+    
+10. Implementar una función recursiva para calcular el máximo común divisor (MCD) usando el algoritmo de Euclides.
+   - (a, b) → (b, a % b)
 
-### Ejercicios Opciones (Retos)
+Calcular: **MCD(48, 18)**
+
+```
+
+48 % 18 = 12 → MCD(18, 12)
+18 % 12 = 6  → MCD(12, 6)
+12 % 6  = 0  → MCD(6, 0)
+
+```
+
+📌 **Resultado:** MCD = **6**
+```
+
+
+### Ejercicio Opcional (Reto)
 
 1. Resolver el problema de la Torre de Hanoi, de forma recursiva e iterativa:
    - Mostrar los movimientos necesarios para mover n discos.   
-
-2. Implementar una función recursiva para calcular el máximo común divisor (MCD) usando el algoritmo de Euclides.
